@@ -365,4 +365,3 @@ Former AI/ML Manager – Fluence Energy
 
 MIT License
 
-Those would make this repository look **much stronger for interviews or GitHub portfolios**.
