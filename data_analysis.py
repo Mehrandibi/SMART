@@ -24,8 +24,6 @@ df = pd.read_csv('/content/drive/My Drive/Colab Notebooks/SMART/20240115_145848-
 
 df_eol_orig.head()
 
-df_eol_orig = pd.read_csv('/content/drive/Othercomputers/My MacBook Air/Desktop/smart/20240115_145848-AD23L00131-end_of_line.csv')
-df_eol_orig.head()
 
 # unit conversions
 df_eol = df_eol_orig.copy()
